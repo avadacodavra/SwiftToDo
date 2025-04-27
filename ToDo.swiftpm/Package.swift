@@ -16,7 +16,7 @@ let package = Package(
         .iOSApplication(
             name: "ToDo",
             targets: ["AppModule"],
-            bundleIdentifier: "ahmed.ToDo",
+            bundleIdentifier: "akrish.ToDo",
             displayVersion: "1.0",
             bundleVersion: "1",
             appIcon: .asset("AppIcon"),
