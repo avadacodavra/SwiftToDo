@@ -2,7 +2,7 @@
 A simple and minimalistic To-Do List iOS application built with SwiftUI!
 You can add tasks, mark them complete, and delete them — with your tasks saved using UserDefaults.
 
-##📱 Features
+## 📱 Features
 Add new tasks
 
 Mark tasks as completed/incompleted
@@ -13,7 +13,7 @@ Persistent storage using UserDefaults (no database needed)
 
 Clean and lightweight SwiftUI interface
 
-##🛠️ Built With
+## 🛠️ Built With
 Swift 5
 
 SwiftUI
